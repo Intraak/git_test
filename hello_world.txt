@@ -1,1 +1,2 @@
 I'm adding text btw.
+Next I'm testing commit msg in quotes.
