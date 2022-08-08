@@ -1,2 +1,3 @@
 I'm adding text btw.
 Next I'm testing commit msg in quotes.
+Test git commit w/o msg.
